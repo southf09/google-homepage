@@ -1,0 +1,42 @@
+img {
+  margin: 0 auto;
+  align-content: center;
+  padding-top: 109px;
+  height: 92px;
+  aspect-ratio: auto 272 / 92;
+  width: 272px;
+}
+
+body {
+  display: block;
+}
+
+#searchform {
+  z-index: 103;
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 0;
+  padding-top: 10px;
+}
+
+#g-search {
+  margin: 0 auto;
+  width: 400px;
+  border-radius: 25px;
+  height: 44px;
+}
+
+ul {
+  width: 100%;
+  text-decoration: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-flex; 
+  justify-content: space-evenly;
+}
+
+#mail {
+  display: flex;
+  justify-content: flex-end;
+}
